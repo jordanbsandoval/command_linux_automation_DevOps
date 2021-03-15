@@ -1,0 +1,6 @@
+# ¿Que es POSIX?
+
+Significa, interfaz de sistema operativo portable, que ha ido creciendo desde 1996
+tanto en terminos de definicion como en cumplimiento.
+Para la Politica de Estados Unidos significa tener un sistema de archivos
+compatible que nos permita tener los permisos incrustados clasicos
