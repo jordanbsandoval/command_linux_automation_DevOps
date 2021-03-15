@@ -1,0 +1,5 @@
+# Standars
+
+cuando se habla de standars, se convierten en una practica
+de "Facto" o "definida por la comunidad" por lo que se 
+convierten en estandares
