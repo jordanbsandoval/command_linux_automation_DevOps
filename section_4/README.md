@@ -1,10 +1,16 @@
 # PATH & FILES
 
-# General
+## More commands
 
 <ul>
-<li>Uso de stat, touch y chmod</li>
-<li></li>
-<li></li>
-<li></li>
+<li>Grupo de archivos</li>
+<li>Grupo directorio</li>
+</ul>
+
+## File / Node
+
+<ul>
+<li>Locations</li>
+<li>Searching</li>
+<li>Archival</li>
 </ul>
