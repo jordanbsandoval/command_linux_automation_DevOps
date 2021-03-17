@@ -1,0 +1,3 @@
+#!/bin/bash
+# od (1)               - dump files in octal and other formats
+od $1
