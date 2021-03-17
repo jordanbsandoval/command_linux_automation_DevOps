@@ -1,0 +1,3 @@
+#!/bin/bash
+# cmp (1)              - (tema desconocido)
+cmp $1 $2

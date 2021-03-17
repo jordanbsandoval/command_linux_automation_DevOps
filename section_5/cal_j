@@ -1,0 +1,3 @@
+#!/bin/bash
+#cal (1)              - displays a calendar and the date of Easter
+cal $1
