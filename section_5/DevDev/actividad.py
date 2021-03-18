@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 from subprocess import Popen
 archivo = "./prueba.txt"
-print("code: ", Popen(["cal", "-3", ">", archivo]).wait())
+cal = ["cal", "-3", ">", archivo]
+print("code: ", Popen(cal).wait())
 with open(archivo) as fh:
-	for line in fh:
-		print(line[14:17])
+	for i in fh:
+		print(i[14:17])
