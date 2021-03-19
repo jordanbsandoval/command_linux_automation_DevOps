@@ -9,4 +9,5 @@
 <li>Section 4: Part 02: Files & Paths</li>
 <li>Section 5: Classic Text Processing</li>
 <li>Section 6: Part 03: Python Shell Concepts</li>
+<li></li>
 </ul>
